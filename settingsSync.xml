@@ -1,0 +1,22 @@
+<application>
+  <component name="SettingsSyncSettings">
+    <option name="disabledCategories">
+      <list>
+        <option value="UI" />
+        <option value="SYSTEM" />
+      </list>
+    </option>
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="ru.meanmail.plugin.requirements-pro" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="migrationFromOldStorageChecked" value="true" />
+  </component>
+</application>
